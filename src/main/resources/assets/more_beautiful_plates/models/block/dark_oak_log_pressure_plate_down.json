@@ -1,0 +1,6 @@
+{
+  "parent": "block/pressure_plate_down",
+  "textures": {
+    "texture": "more_beautiful_plates:blocks/stripped_dark_oak_log_top"
+  }
+}

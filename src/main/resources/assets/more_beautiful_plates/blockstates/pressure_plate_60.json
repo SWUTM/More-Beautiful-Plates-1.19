@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "more_beautiful_plates:block/pressure_plate_60"
+    },
+    "powered=true": {
+      "model": "more_beautiful_plates:block/pressure_plate_60_down"
+    }
+  }
+}
